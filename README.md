@@ -2,7 +2,7 @@
 The home page for Blazing Angels
 
 
-This is a respetory for Files relating to Blazing Angels Squadrons of WWII
+This is a repository for Files relating to Blazing Angels Squadrons of WWII
 
 Due to File Limitations This is a hub to finds links to access the files
 
